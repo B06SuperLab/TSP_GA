@@ -99,7 +99,7 @@ function initData() {
     // doPreciseMutate = true;
     // currentBest;
 
-    DIV = 9; // 画图相关参数，与程序逻辑无关，att48对应9、berlin52对应2、pr76对应23
+    DIV = 2; // 画图相关参数，与程序逻辑无关，att48对应9、berlin52对应2、pr76对应23
 
     GE_TIME = 1024; // 迭代次数上限
     running = false;
